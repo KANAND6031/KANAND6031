@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:krishnaanand2984@gmail.com">
-    <img src="https://img.shields.io/badge/Email-krishnaanand2984%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-krishnaanand2984%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -112,7 +112,7 @@
 - 🥇 **1st Place** – *Code Hunt Competition*, College Tech Fest (Timed Competitive Coding)
 - 📜 **NPTEL Gold Certification** – *Business Intelligence and Analytics*
 - 📜 **NPTEL Silver Certification** – *Introduction to Information Retrieval*
-- 🧩 **300+ DSA Problems Solved** – LeetCode (Arrays, Strings, Stacks, Queues, Trees, DP, Graphs)
+- 🧩 **300+ DSA Problems Solved** – LeetCode (Arrays, Strings, Stacks, Queues, Trees, DP)
 
 ---
 
