@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:krishnaanand2984@gmail.com">
-    <img src="https://img.shields.io/badge/Email-krishnaanand2984%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E"/>
   </a>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
