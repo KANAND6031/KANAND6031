@@ -116,9 +116,12 @@
 - 📜 **NPTEL Gold Certification** – *Business Intelligence and Analytics*
 - 📜 **NPTEL Silver Certification** – *Introduction to Information Retrieval*
 - 🧩 **300+ DSA Problems Solved** – LeetCode (Arrays, Strings, Stacks, Queues, Trees, DP)
+- CGPA 8.60/10 at IIIT Manipur
 
 ---
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KANAND6031&theme=github-dark&hide_border=true" />
+</p>
 ---
 
 <p align="center">
