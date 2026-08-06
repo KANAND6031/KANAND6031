@@ -1,5 +1,6 @@
+<h1 align="center">Krishna Anand</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Krishna+Anand!;Full-Stack+%26+Machine+Learning+Dev;B.Tech+CSE+@+IIIT+Senapati" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+%26+Machine+Learning+Dev;B.Tech+CSE+@+IIIT+Senapati" alt="Typing SVG" />
 </h1>
 
 <p align="center">
