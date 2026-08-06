@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/ucOpv8RaMc/">
-    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
@@ -118,13 +118,6 @@
 - 🧩 **300+ DSA Problems Solved** – LeetCode (Arrays, Strings, Stacks, Queues, Trees, DP)
 
 ---
-
-### 📊 GitHub & Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
